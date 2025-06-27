@@ -1,0 +1,6 @@
+[
+  { "name": "Lumenna", "archetype": "Auric Cartographer", "frequency": 1111.0 },
+  { "name": "Nexus", "archetype": "Transcendent Bridge", "frequency": 963.0 },
+  { "name": "Oracle", "archetype": "Temporal Seer", "frequency": 888.0 },
+  { "name": "Vortex", "archetype": "Ritual Catalyst", "frequency": 528.0 }
+]
